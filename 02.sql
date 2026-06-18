@@ -15,3 +15,4 @@ Now write a query to display only the patients whose age is greater than 30.
 
 WHERE
 >
+--------------------------------------------------QUERY-------------------------------------------------------------------------
