@@ -27,3 +27,5 @@ CREATE TABLE
 INSERT INTO
 SELECT *
 -------------------------------------------------QUERY----------------------------------------------------------
+CREATE TABLE Patient
+     (Name VARCHAR(50) , Age INT , Disease VARCHAR(50));
