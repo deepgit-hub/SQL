@@ -19,3 +19,10 @@ Name	Age	Disease
 Ravi	45	Diabetes
 Priya	30	Fever
 Karthik	25	Asthma
+Then display all records from the table.
+
+🎯 Concepts covered:
+
+CREATE TABLE
+INSERT INTO
+SELECT *
