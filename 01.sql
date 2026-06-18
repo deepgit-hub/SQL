@@ -30,4 +30,5 @@ SELECT *
 CREATE TABLE Patient
      (Name VARCHAR(50) , Age INT , Disease VARCHAR(50));
  INSERT INTO Patient VALUES('Chandra',56,'Fever'),('Seker',26,'High Fever');
+SELECT * FROM Patient;
 
