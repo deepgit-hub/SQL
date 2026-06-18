@@ -18,5 +18,7 @@ WHERE
 --------------------------------------------------QUERY-------------------------------------------------------------------------
 INSERT INTO Patient VALUES('Es',25,'Astuma'),('Kathir',14,'Infection'),('Deepa',45,'Throught_pain');
 INSERT INTO Patient VALUES('As',65,'Astuma'),('thir',34,'Infection'),('Dea',25,'Throught_pain');
+SELECT * FROM Patient
+    WHERE Age>30;
 
 
