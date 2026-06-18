@@ -16,3 +16,5 @@ Now write a query to display only the patients whose age is greater than 30.
 WHERE
 >
 --------------------------------------------------QUERY-------------------------------------------------------------------------
+INSERT INTO Patient VALUES('Es',25,'Astuma'),('Kathir',14,'Infection'),('Deepa',45,'Throught_pain');
+
