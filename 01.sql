@@ -26,3 +26,4 @@ Then display all records from the table.
 CREATE TABLE
 INSERT INTO
 SELECT *
+-------------------------------------------------QUERY----------------------------------------------------------
