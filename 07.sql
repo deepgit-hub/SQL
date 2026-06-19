@@ -9,3 +9,4 @@ Show patients whose age is greater than 20 AND whose disease is Fever.
 🎯 New Concept:
 
 AND
+---------------------------------------------------------QUERY-----------------------------------------------------------------
