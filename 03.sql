@@ -26,3 +26,4 @@ SELECT * FROM Patient;
 | thir    |   34 | Infection     |
 | Dea     |   25 | Throught_pain |
 +---------+------+---------------+
+UPDATE Patient SET Disease='Typhoid' WHERE Name='Kathir';
