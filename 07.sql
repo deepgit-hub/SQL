@@ -10,3 +10,11 @@ Show patients whose age is greater than 20 AND whose disease is Fever.
 
 AND
 ---------------------------------------------------------QUERY-----------------------------------------------------------------
+SELECT * FROM Patient
+    -> WHERE age>20 AND Disease='Fever';
++---------+------+---------+
+| Name    | Age  | Disease |
++---------+------+---------+
+| Chandra |   56 | Fever   |
+| Chandra |   56 | Fever   |
++---------+------+---------+
