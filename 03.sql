@@ -11,3 +11,4 @@ to
 Typhoid
 
 After updating, display the entire table to verify the change
+-----------------------------------------------------QUERY--------------------------------------------------------------------
