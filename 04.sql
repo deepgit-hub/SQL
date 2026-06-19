@@ -29,3 +29,19 @@ Before Deletion
 | Dea     |   25 | Throught_pain |
 +---------+------+---------------+
 --------------------------------------------------QUERY-----------------------------------------------------------------------
+DELETE FROM Patient
+    -> WHERE Name='Es';
+SELECT * FROM Patient;
++---------+------+---------------+
+| Name    | Age  | Disease       |
++---------+------+---------------+
+| Chandra |   56 | Fever         |
+| Chandra |   56 | Fever         |
+| Seker   |   26 | High Fever    |
+| Kathir  |   14 | Typhoid       |
+| Deepa   |   45 | Throught_pain |
+| As      |   65 | Astuma        |
+| thir    |   34 | Infection     |
+| Dea     |   25 | Throught_pain |
++---------+------+---------------+
+
