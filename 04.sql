@@ -1,2 +1,3 @@
 Remove all records from the Student table using TRUNCATE.
 ------------------------------------------------QUERY---------------------------------------------------------------------------
+TRUNCATE TABLE Student_Details;
