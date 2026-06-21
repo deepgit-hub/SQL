@@ -1,1 +1,2 @@
-
+Primary Key on StudentID
+NOT NULL on StudentName
