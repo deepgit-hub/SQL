@@ -1,24 +1,2 @@
-SQL Question 2
-
-Insert these records:
-
-Name	Age	Disease
-Ravi	45	Diabetes
-Priya	30	Fever
-Karthik	25	Asthma
-Meena	52	Heart Disease
-Arun	19	Cold
-
-Now write a query to display only the patients whose age is greater than 30.
-
-🎯 Expected concept:
-
-WHERE
->
---------------------------------------------------QUERY-------------------------------------------------------------------------
-INSERT INTO Patient VALUES('Es',25,'Astuma'),('Kathir',14,'Infection'),('Deepa',45,'Throught_pain');
-INSERT INTO Patient VALUES('As',65,'Astuma'),('thir',34,'Infection'),('Dea',25,'Throught_pain');
-SELECT * FROM Patient
-    WHERE Age>30;
-
-
+Add an Email column to the Student table.
+---------------------------------------------------QUERY-----------------------------------------------------------------------
