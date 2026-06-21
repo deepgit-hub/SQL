@@ -4,4 +4,5 @@
 • Department
 • Age
 • MobileNo
-
+----------------------------------------------QUERY----------------------------------------------------------------------------
+CREATE TABLE Student(StudentId INT,StudentName VARCHAR(20) , Department VARCHAR(20), Age INT,MobileNo INT);
